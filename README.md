@@ -2,7 +2,7 @@
 My version of the RVC V2 Disconnected Colab notebook, which allows you to use RVC without using WebUI/Gradio.
 
 **Try it here**:
-<a target="_blank" href="https://colab.research.google.com/github/MedicDoesStuff/RVC-Disconnected/blob/main/RVC_Disconnected.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/MedicDoesStuff/RVC-Disconnected/blob/main/RVC_Disconnected_(V2).ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
